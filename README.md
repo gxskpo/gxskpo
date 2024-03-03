@@ -1,8 +1,11 @@
 # Hi, i'm haruka!
+
 ### 16yo | Programming passionate
+
 Just a girl who likes programming
 
 ### My skills
+
 ![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -19,16 +22,21 @@ Just a girl who likes programming
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects i made
+
 #### [SunBurst](https://beta.fembot.online) A multifunction discord bot
+
 #### [Journal](https://github.com/gxskpo/journal) An encrypted journal made with Flask
-#### [hawruka.xyz](https://github.com/gxskpo/myWeb) My website :3 
+
+#### [hawruka.xyz](https://github.com/gxskpo/myWeb) My website :3
+
 #### [Quiz bot](https://github.com/gxskpo/quizbot) A discord bot to create and answer quizzes
 
-
 ### Things I will learn (someday)
+
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxskpo&theme=github_dark" alt="Summary" width="500px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact"  alt="Most used langs" width="280px"> </img>
