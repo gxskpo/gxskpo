@@ -30,7 +30,6 @@ Just a girl who likes programming
 
 #### [Url Shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & Postrgres
 
-
 #### [hawruka.xyz](https://github.com/gxskpo/myWeb) My website :3
 
 #### [Quiz bot](https://github.com/gxskpo/quizbot) A discord bot to create and answer quizzes
@@ -45,4 +44,4 @@ Just a girl who likes programming
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxskpo&theme=github_dark" alt="Summary" width="500px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact"  alt="Most used langs" width="280px"> </img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark"  alt="Most used langs" width="280px"> </img>
