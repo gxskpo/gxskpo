@@ -19,17 +19,23 @@ Just a girl who likes programming
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Projects i made
 
 #### [SunBurst](https://beta.fembot.online) A multifunction discord bot
 
-#### [Journal](https://github.com/gxskpo/journal) An encrypted journal made with Flask
+#### [Url Shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & Postrgres
+
 
 #### [hawruka.xyz](https://github.com/gxskpo/myWeb) My website :3
 
 #### [Quiz bot](https://github.com/gxskpo/quizbot) A discord bot to create and answer quizzes
+
+#### [Journal](https://github.com/gxskpo/journal) An encrypted journal made with Flask
 
 ### Things I will learn (someday)
 
