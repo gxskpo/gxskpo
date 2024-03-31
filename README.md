@@ -19,7 +19,7 @@ Just a girl who likes programming
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
 
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -28,7 +28,7 @@ Just a girl who likes programming
 
 #### [SunBurst](https://beta.fembot.online) A multifunction discord bot
 
-#### [Url Shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & Postrgres
+#### [Url shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & Postrgres
 
 #### [hawruka.xyz](https://github.com/gxskpo/myWeb) My website :3
 
@@ -42,6 +42,8 @@ Just a girl who likes programming
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxskpo&theme=github_dark" alt="Summary" width="500px"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark"  alt="Most used langs" width="280px"> </img>
