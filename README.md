@@ -34,11 +34,13 @@ Just a girl who likes programming
 
 ## Projects i made
 
-#### [SunBurst](https://beta.fembot.online) A multifunction discord bot
+#### [SunBurst](https://github.com/gxskpo/sunburst) A multifunction discord bot made with Poise & Rust
 
-#### [Url shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & Postrgres
+#### [Url shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & PostrgresSQL
 
-#### [hawruka.xyz](https://github.com/gxskpo/myWeb) My website :3
+#### [hawruka.xyz](https://github.com/gxskpo/myWeb) My portfolio:3
+
+#### [2Password](https://github.com/gxskpo/2Password) Simple password manager made with SwiftUI **NOT FINISHED YET**
 
 #### [Quiz bot](https://github.com/gxskpo/quizbot) A discord bot to create and answer quizzes
 
@@ -50,8 +52,6 @@ Just a girl who likes programming
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ![Card](https://github-readme-stats.vercel.app/api?username=gxskpo&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark)
