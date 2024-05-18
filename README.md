@@ -5,10 +5,11 @@
 Hi! my name is Larissa, online i go by Haruka, I'm a 16yo mexican girl who likes programming
 
 ### Get in touch
-- **Discord:** `gxskpo`
-- **Twitter:** [gxskpo](https://x.com/gxskpo) 
+**Discord:** `gxskpo`
+**Twitter:** [gxskpo](https://x.com/gxskpo) 
 or
-- [gxskpo@proton.me](mailto:gxskpo@proton.me)
+**Email:** [gxskpo@proton.me](mailto:gxskpo@proton.me)
+
 *I reply faster on discord*
 
 ## My skills
