@@ -39,8 +39,6 @@ or
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</div>
-
 ## [See some projects i made](https://hawruka.xyz)
 
 ### Things I will learn (someday)
@@ -48,6 +46,8 @@ or
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+</div>
 
 ![Card](https://github-readme-stats.vercel.app/api?username=gxskpo&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark)
