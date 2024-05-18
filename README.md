@@ -1,13 +1,16 @@
-# Hi thete!
-
 <div align="center">
+
+# Hi there!
 
 Hi! my name is Larissa, online i go by Haruka, I'm a 16yo mexican girl who likes programming
 
 ### Get in touch
 **Discord:** `gxskpo`
+
 **Twitter:** [gxskpo](https://x.com/gxskpo) 
+
 or
+
 **Email:** [gxskpo@proton.me](mailto:gxskpo@proton.me)
 
 *I reply faster on discord*
