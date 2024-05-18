@@ -39,7 +39,7 @@ or
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## [See some projects i made](https://hawruka.xyz)
+## [See some of my projects](https://hawruka.xyz)
 
 ### Things I will learn (someday)
 
