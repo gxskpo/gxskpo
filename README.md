@@ -1,12 +1,17 @@
-# Hi, i'm haruka!
-
-### 16yo | Programming passionate
-
-Just a girl who likes programming
-
-## My skills
+# Hi thete!
 
 <div align="center">
+
+Hi! my name is Larissa, online i go by Haruka, I'm a 16yo mexican girl who likes programming
+
+### Get in touch
+- **Discord:** `gxskpo`
+- **Twitter:** [gxskpo](https://x.com/gxskpo) 
+or
+- [gxskpo@proton.me](mailto:gxskpo@proton.me)
+*I reply faster on discord*
+
+## My skills
 
 ### Langs
 ![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -32,25 +37,12 @@ Just a girl who likes programming
 
 </div>
 
-## Projects i made
-
-#### [SunBurst](https://github.com/gxskpo/sunburst) A multifunction discord bot made with Poise & Rust
-
-#### [Url shortener](https://github.com/gxskpo/shortener) Simple url shortener made with Next.JS & PostrgresSQL
-
-#### [hawruka.xyz](https://github.com/gxskpo/myWeb) My portfolio:3
-
-#### [2Password](https://github.com/gxskpo/2Password) Simple password manager made with SwiftUI **NOT FINISHED YET**
-
-#### [Quiz bot](https://github.com/gxskpo/quizbot) A discord bot to create and answer quizzes
-
-#### [Journal](https://github.com/gxskpo/journal) An encrypted journal made with Flask
+## [See some projects i made](https://hawruka.xyz)
 
 ### Things I will learn (someday)
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ![Card](https://github-readme-stats.vercel.app/api?username=gxskpo&theme=github_dark)
