@@ -2,7 +2,7 @@
 
 # Hi there!
 
-Hi! my name is Larissa, online I go by Haruka, I'm a 16yo mexican girl who likes programming
+Hi! my name is Larissa, online I go by Haruka, I'm a 16yo mexican girl who likes programming, I'm focused on backend development
 
 ### Get in touch
 **Discord:** `gxskpo`
