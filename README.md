@@ -48,6 +48,6 @@ or
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ![Card](https://github-readme-stats.vercel.app/api?username=gxskpo&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark&hide=css)
 
 </div>
