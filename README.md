@@ -18,7 +18,7 @@ or
 ## My skills
 
 ### Langs
-![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![cs](https://img.shields.io/badge/C%23-3c048c?style=for-the-badge&logo=csharp&logoColor=white)
 ![py](https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=ffde57)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
