@@ -5,19 +5,21 @@
 Hi! my name is Larissa, online I go by Haruka, I'm a 16yo mexican girl who likes programming, I'm focused on backend development
 
 ### Get in touch
+
 **Discord:** `gxskpo`
 
-**Twitter:** [gxskpo](https://x.com/gxskpo) 
+**Twitter:** [gxskpo](https://x.com/gxskpo)
 
 or
 
 **Email:** [gxskpo@proton.me](mailto:gxskpo@proton.me)
 
-*I reply faster on discord*
+_I reply faster on discord_
 
 ## My skills
 
 ### Langs
+
 ![cs](https://img.shields.io/badge/C%23-3c048c?style=for-the-badge&logo=csharp&logoColor=white)
 ![py](https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=ffde57)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,16 +28,19 @@ or
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Technology Stack
+
 ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Databases
+
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Technical knowledge
+
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -49,5 +54,6 @@ or
 
 ![Card](https://github-readme-stats.vercel.app/api?username=gxskpo&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxskpo&layout=compact&theme=github_dark&hide=css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gxskpo&theme=dark&hide_border=true)
 
 </div>
